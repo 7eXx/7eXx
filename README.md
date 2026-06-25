@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7exx&label=Profile%20views&color=0e75b6&style=flat" alt="7exx" /> </p>
 
-<a href="https://www.buymeacoffee.com/7eXx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 <p align="left"> <a href="https://twitter.com/marktexsosti" target="blank"><img src="https://img.shields.io/twitter/follow/marktexsosti?logo=twitter&style=for-the-badge" alt="marktexsosti" /></a> </p>
 
-- 🔭 I’m currently working on [download station](https://github.com/7eXx/download-station)
+- 🔭 I’m currently working on [Raspi-home-mqtt](https://github.com/7eXx/raspi-home-mqtt) and [Raspi-home-ionic](https://github.com/7eXx/raspi-home-ionic)
 
-- 🌱 I’m currently learning **Ionic, Flask**
+- 🌱 I’m currently learning **Linux and Debian**
 
-- 💬 Ask me about **Angular, Spring Boot**
+- 💬 Ask me about **Angular, Spring Boot, Ionic, Flask, Python, Debian and whatever you like**
+
+<p align="left">Checkout all my **repos**!</p>
+<p align="left">If you like what you see: </p>
+<a href="https://www.buymeacoffee.com/7eXx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
