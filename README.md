@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, Spring Boot, Ionic, Flask, Python, Debian and whatever you like**
 
-<p align="left">Checkout all my **repos**!</p>
+<p align="left">Checkout all my <b>Repos</b>!</p>
 <p align="left">If you like what you see: </p>
 <a href="https://www.buymeacoffee.com/7eXx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
