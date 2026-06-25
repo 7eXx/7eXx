@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7exx&label=Profile%20views&color=0e75b6&style=flat" alt="7exx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7exx" alt="7exx" /></a> </p>
+<a href="https://www.buymeacoffee.com/7eXx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="left"> <a href="https://twitter.com/marktexsosti" target="blank"><img src="https://img.shields.io/twitter/follow/marktexsosti?logo=twitter&style=for-the-badge" alt="marktexsosti" /></a> </p>
 
